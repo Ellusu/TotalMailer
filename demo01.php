@@ -5,7 +5,6 @@
  * 
  * @author Matteo Enna, Cagliari, Italy, info@matteoenna.it
  * http://www.matteoenna.it
- * http://www.darwixlab.it
  * @copyright LGPL
  * @version 1
  *

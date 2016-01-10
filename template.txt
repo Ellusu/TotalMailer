@@ -1,6 +1,6 @@
 <html>
 	<head></head>
 	<body>
-		Grazie per esserti registrato,<BR /> nome utente: [$sp1$] <BR /> Password: [$sp2$] <BR /> 
+		Grazie per esserti registrato,<br /> nome utente: [$sp1$] <br /> Password: [$sp2$] <br /> 
 	</body>
 </html> 		
